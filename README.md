@@ -39,7 +39,7 @@ Open and execute the `project.ipynb` Jupyter Notebook to train and evaluate the 
 
 ### 5. Result
 
-The results include two graphs for each product category (wine, liquor, and beer). Each category has a Retail Sales Graph and a Warehouse Sales Graph showing the predicted sales and the actual sales.
+The `result.pdf` include two graphs for each product category (wine, liquor, and beer). Each category has a Retail Sales Graph and a Warehouse Sales Graph showing the predicted sales and the actual sales.
 
 Three values:
 
