@@ -1,7 +1,7 @@
 # Warehouse and Retail Sales Prediction
 
 ## Project Overview
-This project predicts monthly retail and warehouse sales for three categories (wine, beer, and liquor). The goal is to help optimize inventory and improve business planning.
+This project predicts monthly retail and warehouse sales for three categories (wine, beer, and liquor). The goal is to help optimize inventory and improve efficiency.
 
 ## Dataset
 The dataset is sourced from [Data.gov Warehouse and Retail Sales](https://catalog.data.gov/dataset/warehouse-and-retail-sales).
